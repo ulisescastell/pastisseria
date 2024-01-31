@@ -10,6 +10,6 @@ class Beguda() {
     }
 
     override fun toString(): String {
-        return "Tipus: ${this.nom}, Preu: ${this.preu}, Ensucarat: ${this.teSucre}}"
+        return "Tipus: ${this.nom}, Preu: ${this.preu}, Ensucarat: ${this.teSucre}"
     }
 }
