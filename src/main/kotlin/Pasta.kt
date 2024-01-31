@@ -12,6 +12,6 @@ class Pasta() {
     }
 
     override fun toString(): String {
-        return "${this.nom}, ${this.preu}, ${this.pes}, ${this.calories}"
+        return "Tipus: ${this.nom}, Preu: ${this.preu}, Pes: ${this.pes}, Calories: ${this.calories}"
     }
 }
